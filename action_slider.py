@@ -191,7 +191,7 @@ def add_constraints(action):
 
 
 class ActionSlider_State(bpy.types.PropertyGroup):
-    action_name: bpy.props.StringProperty(name='动作名称', )
+    action_name: bpy.props.StringProperty(name='动作名称')
 
     slider_layers: bpy.props.BoolVectorProperty(
         name='控制器层',
