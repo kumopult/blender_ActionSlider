@@ -15,13 +15,13 @@
 bl_info = {
     "name" : "Action Slider Create Tool",
     "author" : "Kumopult <kumopult@qq.com>",
-    "description" : "将骨骼动作或姿态记录为“驱动关键帧”，并自动创建控制滑块",
+    "description" : "将骨骼动作或姿态记录为“驱动关键帧”, 并自动创建控制滑块",
     "blender" : (2, 93, 0),
     "version" : (0, 0, 3),
     "location" : "View 3D > Toolshelf",
-    "warning" : "因为作者很懒所以没写英文教学！",
+    "warning" : "因为作者很懒所以没写英文教学!",
     "category" : "Animation",
-    "doc_url": "https://github.com/kumopult/blender_BoneAnimCopy",
+    "doc_url": "https://github.com/kumopult/blender_ActionSlider",
     "tracker_url": "https://space.bilibili.com/1628026",
     # VScode调试：Ctrl + Shift + P
 }
